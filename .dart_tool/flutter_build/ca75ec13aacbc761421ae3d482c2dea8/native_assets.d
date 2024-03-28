@@ -1,0 +1,1 @@
+ C:\\flutterapps\\News__App\\NewsAppWithCubit\\.dart_tool\\flutter_build\\ca75ec13aacbc761421ae3d482c2dea8\\native_assets.yaml: 
